@@ -38,5 +38,5 @@ The application uses the Pixabay API to fetch images.
 2. API Key: This project uses the key stored locally in the project for authentication.
 
 
-Author
+Author:
 Decia Safira
